@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:51:48	28/28	---M--	200	added ('OK')	text/plain	etag:%226179d164-1c%22	https://www.morganindia.com/robots.txt		(from )
+22:51:49	15876/15876	---MCZ	200	added ('OK')	text/html	etag:W/%22628e234a-3e04%22	https://www.morganindia.com/	C:/morganIndia/morganIndia/www.morganindia.com/index.html	(from )
